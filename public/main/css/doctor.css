@@ -1,0 +1,121 @@
+.navbar-brand>img {
+      display: block;
+      max-width: 65%;
+      margin-top: -9%;
+}
+.navbar-default .navbar-nav > .active > a ,.navbar-default .navbar-nav > li >a {
+    color:#fff;
+    border: none;
+    font-weight: 800;
+}
+.navbar-default {
+  background: rgb(112, 188, 79);
+  padding: 2%;
+  border-color: #70bc4f;
+}
+.navbar-default .navbar-collapse {
+  border-color: rgb(112, 188, 79);
+  background: rgb(112, 188, 79);
+  color: #fff;
+}
+section {
+     margin-top: 40px;
+     padding: 0;
+}
+.lib-panel img {
+    width: 100%;
+    background-color: transparent;
+    height: 240px;
+}
+h4,h1 , h2, h3, h5 {
+  color:#86D9D2
+  }
+
+  .top-section{
+        background-image: url('../img/doctors.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-attachment: scroll;
+        margin-bottom: 8%;
+        margin-top: 0px;
+        height: 235px;
+      }
+      .header-top{
+      padding-top: 7%;
+      }
+      .background-heaer{
+        background: -webkit-linear-gradient(to left,rgba(7,170,233,.3) , rgba(243,111,114,.3));
+        background: -moz-linear-gradient(to left, rgba(7,170,233,.3) , rgba(243,111,114,.3));
+        background: linear-gradient(to left, rgba(7,170,233,.3) , rgba(243,111,114,.3));
+        height: 100%;
+      }
+      .header-top .heading:after{
+        background: #fff;
+        width: 100%;
+      }
+      .header-top .heading{
+        color: #fff;
+        font-size: 3em;
+      }
+
+      .lib-panel {
+    margin-bottom: 20Px;
+}
+.lib-panel img {
+    width: 100%;
+    background-color: transparent;
+}
+
+.lib-panel .row,
+.lib-panel .col-md-6 {
+    padding: 0;
+    background-color: #FFFFFF;
+}
+
+
+.lib-panel .lib-row {
+    padding: 0 20px 0 20px;
+}
+
+.lib-panel .lib-row.lib-header {
+    background-color: #FFFFFF;
+    font-size: 20px;
+    padding: 10px 20px 0 20px;
+}
+
+.lib-panel .lib-row.lib-header .lib-header-seperator {
+    height: 2px;
+    width: 26px;
+    background-color: #d9d9d9;
+    margin: 7px 0 7px 0;
+}
+
+.lib-panel .lib-row.lib-desc {
+    position: relative;
+    height: 100%;
+    display: block;
+    font-size: 13px;
+}
+.lib-panel .lib-row.lib-desc a{
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+    left: 20px;
+}
+
+.row-margin-bottom {
+    margin-bottom: 20px;
+}
+
+.box-shadow {
+    -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,.10);
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.10);
+}
+
+.no-padding {
+    padding: 0;
+}
+.myrow{
+  margin: 0 !important;
+}
